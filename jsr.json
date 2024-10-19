@@ -1,6 +1,6 @@
 {
     "name": "@kamiru/loveayaka",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "exports": "./love.ts",
     "license": "MIT"
 }
